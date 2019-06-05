@@ -5,7 +5,7 @@ To make the program work , You must install the libraries which are used in the 
 
 (SpeechRecognition , Pyaudio , Pillow , pyttsx3 .....).
 
-The program recognizes arithmetic commands like addion , subtraction , divison , multiplication , raise to the power .
+The program recognizes arithmetic commands like addition , subtraction , divison , multiplication , raise to the power .
 
 If the project was worth getting to know , please rate the program .
 
